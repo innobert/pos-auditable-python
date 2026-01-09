@@ -1,0 +1,25 @@
+# Entorno virtual
+Lib/
+Scripts/
+pyvenv.cfg
+
+# IDE
+.vscode/
+
+# Build / ejecutables
+build/
+dist/
+*.spec
+
+# Bases de datos
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos generados
+*.pdf
+*.log
+
+# Carpetas no necesarias
+docs/
+fotos/
